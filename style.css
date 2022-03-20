@@ -5,7 +5,8 @@
 }
 body {
     background-color: #8a042a;
-    width: auto;
+    max-width:100%;
+    height:auto;
     background-image: url("bg.jpg");
     background-size: 100%;
     display: flex;
